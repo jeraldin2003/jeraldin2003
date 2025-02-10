@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Heart Disease Prediction System](https://github.com/jeraldin2003)  
 
-- 🌱 I’m currently learning **Advanced Machine Learning, FastAPI, Cloud Deployment & Docker**  
+- 🌱 I’m currently learning **Machine Learning, Data Science, DSA with C++**  
 
 - 👯 I’m looking to collaborate on [Full-Stack Web & AI Projects](https://github.com/jeraldin2003)  
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jeraldinpj)  
 
-- 💬 Ask me about **Frappe, ERPNext, Python, Web Development, Data Science**  
+- 💬 Ask me about **Frappe, ERPNext, Python, Data Science**  
 
 - 📫 How to reach me **jeraldin2003@gmail.com**  
 

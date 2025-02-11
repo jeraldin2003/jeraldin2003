@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jeraldin2003@gmail.com**  
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ccDfGruwbxvp5-MtkeqL8VB0ObngY42s/view)  
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1q_GsaKodlGiCaNR8AYfB0L445BrD5nQW/view?usp=sharing)  
 
 - ⚡ Fun fact **I successfully built a fully controllable drone using APM 3.0 and competed in tech fests!**  
 

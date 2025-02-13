@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jeraldinpj)  
 
-- 💬 Ask me about **Frappe, ERPNext, Python, Data Science**  
+- 💬 Ask me about **Frappe, ERPNext, Python, Data Science,Reverse Engineering, Reverse Engineering, Realtime Memory Manipulation**  
 
 - 📫 How to reach me **jeraldin2003@gmail.com**  
 

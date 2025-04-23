@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeraldin2003&label=Profile%20views&color=0e75b6&style=flat" alt="jeraldin2003" /> </p>
 
-- 🔭 I’m currently working on [Heart Disease Prediction System](https://github.com/jeraldin2003)  
+- 🔭 I’m currently working on [Heart Disease Prediction System](https://github.com/jeraldin2003/Heart_Disease_Prediction)  
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, DSA with C++**  
 

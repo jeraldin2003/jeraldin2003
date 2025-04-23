@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, DSA with C++**  
 
-- 👯 I’m looking to collaborate on [Full-Stack Web & AI Projects](https://github.com/jeraldin2003)  
+- 👯 I’m looking to collaborate on [AI & MLProjects](https://github.com/jeraldin2003)  
 
 - 🤝 I’m looking for help with [AI Model Optimization & System Scaling](https://www.linkedin.com/in/jeraldinpj)  
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/jeraldin2003)  
-
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/jeraldinpj)  
 
-- 💬 Ask me about **Frappe, ERPNext, Python, Data Science,Reverse Engineering, Reverse Engineering, Realtime Memory Manipulation**  
+- 💬 Ask me about **Python, Data Science, Machine Learning, Frappe, ERPNext, **  
 
 - 📫 How to reach me **jeraldin2003@gmail.com**  
 
